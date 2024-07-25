@@ -115,11 +115,29 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/MohdYahyaMahmodi/pulsar-os">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=project1&theme=algolia" />
-  </a>
-  <a href="https://github.com/MohdYahyaMahmodi/CustomGPT">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=project2&theme=algolia" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>CustomGPT</h3>
+        <a href="https://github.com/MohdYahyaMahmodi/CustomGPT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=CustomGPT&theme=react&hide_border=true" alt="CustomGPT" />
+        </a>
+        <p>A custom implementation of GPT for natural language processing tasks.</p>
+      </td>
+      <td width="50%" align="center">
+        <h3>Pulsar OS</h3>
+        <a href="https://github.com/MohdYahyaMahmodi/pulsar-os">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=pulsar-os&theme=react&hide_border=true" alt="Pulsar OS" />
+        </a>
+        <p>An innovative operating system project with unique features.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <a href="https://github.com/MohdYahyaMahmodi?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
   </a>
 </div>
 
