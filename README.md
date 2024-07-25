@@ -23,7 +23,7 @@
   - 🌱 Currently learning Advanced ML techniques and Cloud Architecture
   - 👯 Looking to collaborate on open-source ML and web development projects
   - 💬 Ask me about Python, Machine Learning, or Web Development
-  - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+  - ⚡ Fun fact: I can solve a Rubik's cube in under 20 seconds!
 </p>
 </details>
 
