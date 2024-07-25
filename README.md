@@ -115,10 +115,10 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/MohdYahyaMahmodi/project1">
+  <a href="https://github.com/MohdYahyaMahmodi/pulsar-os">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=project1&theme=algolia" />
   </a>
-  <a href="https://github.com/MohdYahyaMahmodi/project2">
+  <a href="https://github.com/MohdYahyaMahmodi/CustomGPT">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=project2&theme=algolia" />
   </a>
 </div>
