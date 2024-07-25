@@ -22,19 +22,32 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU3YTBmYzY3YTM2NGNkYTM1MjNhYzIyMDBlZmIxYjI2MjI5MjVmMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
+<table border="0" align="center">
+<tr>
+<td width="50%">
 
-- 🎓 Aspiring **Software Engineer** & **ML Scientist**
-- 💡 Passionate about exploring new technologies and developing innovative solutions
-- 🌱 Currently diving deep into Advanced ML techniques and Cloud Architecture
-- 👯 Eager to collaborate on open-source ML and web development projects
-- 💬 Ask me about Python, Machine Learning, or Web Development
-- 🎯 2024 Goals: Contribute more to Open Source projects and publish a research paper
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!
+### 💻 Software Engineer & ML Enthusiast
+
+With a passion for coding and a knack for problem-solving, I'm on a mission to push the boundaries of what's possible in software development and machine learning.
+
+- 🔭 Currently working on: Advanced NLP models
+- 🌱 Learning: Cloud-native architectures & MLOps
+- 👯 Open to collaborate on: Innovative ML projects
+- 🎯 2024 Goal: Publish research on efficient ML algorithms
+
+</td>
+<td width="50%">
+
+<img align="right" alt="AI and Machine Learning" width="100%" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/118947646/original/9fb85fe56953295c5592270439d44b477c742ca5/create-a-pixel-art-charakter-for-you.png" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
 <h3 align="center">Machine Learning & Data Science</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -50,6 +63,7 @@
   <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
 </p>
+
 <h3 align="center">Software Engineering</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -65,6 +79,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/>
 </p>
+
 <h3 align="center">Web Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -163,21 +178,16 @@
 ---
 
 <h2 align="center">📫 Let's Connect!</h2>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/mohdmahmodi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://x.com/mohdmahmodi"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" alt="Twitter"/></a>
   <a href="mailto:contact@mohdmahmodi.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Email"/></a>
 </div>
 
----
-
 <h2 align="center">💼 Support My Work</h2>
-
 <div align="center">
   <a href="https://www.buymeacoffee.com/mohdmahmodi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
