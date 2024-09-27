@@ -33,8 +33,9 @@ I'm a 19-year-old Computer Science student specializing in Machine Learning and 
 
 ## 🌟 Featured Projects
 
-[![CustomGPT](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=CustomGPT&theme=dark)](https://github.com/MohdYahyaMahmodi/CustomGPT)
-[![Pulsar OS](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=pulsar-os&theme=dark)](https://github.com/MohdYahyaMahmodi/pulsar-os)
+[![Talkomatic Classic](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=talkomatic-classic&theme=dark)](https://github.com/MohdYahyaMahmodi/talkomatic-classic)
+[![ModernNotify.js](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=ModernNotify.js&theme=dark)](https://github.com/MohdYahyaMahmodi/ModernNotify.js)
+[![Barcode Scanner](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=barcode-scanner&theme=dark)](https://github.com/MohdYahyaMahmodi/barcode-scanner)
 
 ## 📫 Get in Touch
 
