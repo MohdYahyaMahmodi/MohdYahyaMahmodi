@@ -1,48 +1,102 @@
-# Mohd Mahmodi
+<h2 align="left">Hey! 👋 I'm Mohd Mahmodi from California, USA.</h2>
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohdmahmodi.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/MohdMahmodi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohdmahmodi/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:contact@mohdmahmodi.com)
+###
 
-## 👨‍💻 About Me
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mohdyahyamahmodi/count.svg?"  />
+</div>
 
-I'm a 19-year-old Computer Science student specializing in Machine Learning and Software Engineering. Passionate about leveraging technology to solve complex problems, I'm constantly exploring the intersection of AI and software development.
+###
 
-### 🚀 Key Achievements
-- Developed CustomGPT, a novel implementation of GPT for NLP tasks
-- Created Pulsar OS, an innovative operating system project
-- Published research on efficient ML algorithms (in progress)
-- Contributed to open-source ML libraries
+<p align="left">I'm a Computer Science student with a focus on Machine Learning and Software Engineering. I enjoy solving real-world problems with technology and exploring how AI can improve software development.</p>
 
-### 💡 Current Focus
-- Advancing NLP models
-- Exploring cloud-native architectures
-- Mastering MLOps practices
+###
 
-## 🛠 Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="30" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+</div>
 
-- **Languages:** Python, C++, JavaScript, Java
-- **ML/AI:** TensorFlow, PyTorch, Scikit-learn, OpenCV
-- **Web Dev:** React, Node.js, Express, HTML/CSS
-- **Tools:** Git, Docker, Kubernetes, AWS
+###
 
-## 📊 GitHub Stats
+<p align="left">Feel free to reach out for collaborations or just a chat about technology and innovation. Let's connect and build something amazing together!</p>
 
-![Mohd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdYahyaMahmodi&show_icons=true&theme=dark)
+###
 
-## 🌟 Featured Projects
+<div align="left">
+  <a href="https://www.linkedin.com/in/mohdmahmodi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/mohdmahmodi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discordapp.com/users/995434860896321576" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/mohdmahmodi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-[![Talkomatic Classic](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=talkomatic-classic&theme=dark)](https://github.com/MohdYahyaMahmodi/talkomatic-classic)
-[![ModernNotify.js](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=ModernNotify.js&theme=dark)](https://github.com/MohdYahyaMahmodi/ModernNotify.js)
-[![Barcode Scanner](https://github-readme-stats.vercel.app/api/pin/?username=MohdYahyaMahmodi&repo=barcode-scanner&theme=dark)](https://github.com/MohdYahyaMahmodi/barcode-scanner)
+###
 
-## 📫 Get in Touch
+<img align="right" height="300" src="https://pbs.twimg.com/profile_images/1839012130462511107/9tdjr6P9_400x400.jpg"  />
 
-Feel free to reach out for collaborations or just a chat about technology and innovation. Let's connect and build something amazing together!
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohdyahyamahmodi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mohdyahyamahmodi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohdYahyaMahmodi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/mohdyahyamahmodi/mohdyahyamahmodi/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdyahyamahmodi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohdyahyamahmodi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
