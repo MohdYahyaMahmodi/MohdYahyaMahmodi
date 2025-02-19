@@ -4,6 +4,7 @@
 
 <div align="left">
 <img src="https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Profile%20Views&color=648da6&style=plastic" alt="Profile Views" />
+  <img src="https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=views&color=000000&style=for-the-badge" alt="views" />
 </div>
 
 ###
