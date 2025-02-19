@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-![Profile Views](https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Profile%20Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=plastic)
+<img src="https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Profile%20Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=plastic" alt="Profile Views" />
 </div>
 
 ###
