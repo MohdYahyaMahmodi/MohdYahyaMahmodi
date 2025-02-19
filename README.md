@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-<img src="https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Profile%20Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=plastic" alt="Profile Views" />
+<img src="https://ghtb-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Views&color=000000&labelColor=000000&labelBgColor=ffffff&countColor=ffffff&style=flat" alt="Views" />
 </div>
 
 ###
