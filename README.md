@@ -6,7 +6,9 @@
   <img src="https://profile-counter.glitch.me/mohdyahyamahmodi/count.svg?"  />
 </div>
 
+<div align="center">
 <img src="https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Profile%20Views&color=648da6&style=plastic" alt="Profile Views" />
+</div>
 
 ###
 
