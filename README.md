@@ -6,6 +6,8 @@
   <img src="https://profile-counter.glitch.me/mohdyahyamahmodi/count.svg?"  />
 </div>
 
+<img src="https://ghtb-profile-counter.vercel.app/api/counter?username=mohdyahyamahmodi&label=Profile%20Views&color=648da6&style=plastic" alt="Profile Views" />
+
 ###
 
 <p align="left">I'm a Computer Science student with a focus on Machine Learning and Software Engineering. I enjoy solving real-world problems with technology and exploring how AI can improve software development.</p>
